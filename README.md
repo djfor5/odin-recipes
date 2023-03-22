@@ -10,3 +10,7 @@ Creating this project helps to improve the following skills:
 - Unordered lists
 - Ordered lists
 - Images and anchor tags
+- Deploying website using GitHub Pages
+
+## URL
+Click [here](https://djfor5.github.io/odin-recipes/) to visit Odin Recipes!
