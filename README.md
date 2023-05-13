@@ -1,5 +1,5 @@
 # odin-recipes
-Recipe website
+The Odin Project - Recipe website
 
 This website displays a list of various meals and the corresponding recipe to produce each meal.
 
