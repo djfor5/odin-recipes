@@ -1,28 +1,25 @@
-* {
+body {
+  color: black;
   font-family: Helvetica, Verdana, sans-serif;
   background-color: lightgrey;
-  color: blue;
-}
-
-img {
-  max-width: 100%;
 }
 
 p {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: darkorange;
 }
 
 li {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 ol li {
-  font-weight: 600;
   color: red;
+  font-weight: 600;
 }
 
 img {
   width: 700px;
+  max-width: 100%;
   height: auto;
 }
